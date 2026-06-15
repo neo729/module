@@ -1,0 +1,6 @@
+#!name=all
+#!author=neo729
+#!desc=all
+
+[Rule]
+DOMAIN-SUFFIX, nanoleaf.me, DIRECT
