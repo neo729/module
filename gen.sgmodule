@@ -1,0 +1,6 @@
+#!name=gen
+#!author=neo729
+#!desc= gen
+
+[Rule]
+DOMAIN-SUFFIX,nanoleaf.me,Direct
