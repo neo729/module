@@ -4,3 +4,5 @@
 
 [Rule]
 DOMAIN-SUFFIX, nanoleaf.me, DIRECT
+DOMAIN-SUFFIX, ip-api.com, DIRECT
+DOMAIN-SUFFIX, nanoleaf.cn, DIRECT
